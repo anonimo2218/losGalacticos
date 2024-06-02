@@ -1,0 +1,22 @@
+.img_marta {
+    width: 70%;
+}
+
+.imagen-pequena {
+    width: 90%;
+}
+
+.NOMINADA {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nombre h1{
+    margin-left: 9rem;
+    color: blue;
+}
+
+.img_galactica {
+    width: 90%;
+}
